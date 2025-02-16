@@ -23,6 +23,7 @@ Questo è un semplice gioco di asteroidi sviluppato in Python utilizzando la lib
 Per avviare il gioco, esegui il seguente comando nella directory del progetto:
 ```sh
 python main.py
+```
 
 Controlli
 Freccia su: Accelera la nave
