@@ -25,7 +25,7 @@ Per avviare il gioco, esegui il seguente comando nella directory del progetto:
 python main.py
 ```
 
-Controlli
+## Controlli
 Freccia su: Accelera la nave
 Freccia sinistra: Ruota la nave a sinistra
 Freccia destra: Ruota la nave a destra
@@ -33,7 +33,7 @@ Tasto S: Spara un proiettile
 Descrizione del Gioco
 Il gioco consiste nel controllare una nave spaziale e distruggere gli asteroidi che appaiono sullo schermo. La nave può sparare proiettili per distruggere gli asteroidi. Ogni asteroide distrutto si divide in asteroidi più piccoli fino a raggiungere la dimensione minima.
 
-Struttura del Codice
+## Struttura del Codice
 main.py: Contiene il codice principale del gioco, inclusa la logica di aggiornamento e disegno degli oggetti di gioco.
 Funzioni Principali
 reset(): Reimposta lo stato del gioco.
